@@ -29,7 +29,7 @@ El laboratorio se ha desplegado en un entorno virtualizado utilizando **GNS3**, 
 | Dispositivo | Interfaz | Dirección IP | Máscara de Subred | Gateway Predeterminado |
 | :--- | :--- | :--- | :--- | :--- |
 | **R1** | e0/0 | 10.20.12.1 | 255.255.255/24 |    |
-| **Sw1** | VLAN 1 | 10.20.12.2 (Gestión) | 255.255.255.0/24 | 10.20.12.1 |
+| **Sw1** | VLAN 1 | 10.20.12.2 | 255.255.255.0/24 | 10.20.12.1 |
 | **gns3attack (vtacante)** | eth0 | 10.20.12.254 | 255.255.255.0/24 | 10.20.12.1 |
 | **VPCS (víctima)** | e0/0 | 10.29.12.50  | 255.255.255.0/24 | 10.20.12.1 |
 
