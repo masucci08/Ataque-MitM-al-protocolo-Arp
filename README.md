@@ -1,10 +1,9 @@
-**Estudiante:** Masucci Franco Rincón
+# Ejecucion de Script-Scapy MitM al protocolo Arp 
 
-**Matrícula:** 2024-1250
-
+**Estudiante:** Masucci Franco Rincón  
+**Matrícula:** 2024-1250  
 **Asignatura:** Seguridad de Redes  
-
-**Fecha:** 6/02/2026
+**Fecha:** 6/02/2026  
 
 **Link del video**: https://itlaedudo-my.sharepoint.com/:v:/g/personal/20241250_itla_edu_do/IQAIbt-8mo5xRI39xOkHBtAoAUHMBDqzml5fk1mCWopYizk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=oDB39Q
  
