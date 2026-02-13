@@ -5,7 +5,7 @@
 **Asignatura:** Seguridad de Redes  
 **Fecha:** 6/02/2026  
 
-**Link del video**: https://itlaedudo-my.sharepoint.com/:v:/g/personal/20241250_itla_edu_do/IQCuo_NSicfYR4iHTNLIqenPAVAPv-X6teL0ZGc9K16PCII?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CDdvFk
+**Link del video**: https://itlaedudo-my.sharepoint.com/:v:/g/personal/20241250_itla_edu_do/IQDyU8xLMgrqSpFru99a0RtPAcI0y-AcuWZRRDz9hsVr2h8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lR1Myj
  ## 1. Descripción y Topología 
 
 El laboratorio se ha desplegado en un entorno virtualizado utilizando **GNS3**, simulando una infraestructura de red corporativa vulnerada desde el interior.
